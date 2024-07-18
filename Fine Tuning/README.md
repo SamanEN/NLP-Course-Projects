@@ -1,0 +1,3 @@
+# Fine Tuning
+
+This directory contains a notebook implementing different methods of fine-tuning. We use Roberta large and Llama 3-8b from the implementations provided by the hugging face community. The main task is to fine tune these large transformer models for the task of sentence entailment. We use the `nyu-mll/multi-nli` dataset for this purpose. Unfortunately due to shortage of time and resources, I couldn't implement this assignment at its best.
